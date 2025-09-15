@@ -1,4 +1,4 @@
-# óla esse é meu pérfil do github
+# Óla esse é meu pérfil do github
 Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas com uma paixão genuína por tecnologia em 2020. A constante inovação e evolução do setor me fascinam, e acredito no poder transformador da tecnologia para gerar um impacto positivo no mundo. Essa crença é o motor que me impulsiona a buscar conhecimento e me aprofundar nas diversas áreas que a tecnologia oferece.
 
 Minha meta é me tornar um profissional completo e adaptável, capaz de acompanhar o ritmo acelerado das mudanças tecnológicas. Atualmente, meu foco principal está no desenvolvimento web, com ênfase em HTML, CSS e JavaScript, buscando dominar as ferramentas essenciais para criar experiências digitais impactantes.
